@@ -4,7 +4,6 @@
 - ⚙️ In my free time, I work on [an automated theorem prover](https://github.com/jinh0/atp) in **OCaml** and **TypeScript**.
 - 🌱 I'm currently learning more about deep learning and functional programming.
 - 👀 If you're a Neovim user, you should check out my new plugin, [eyeliner.nvim](https://github.com/jinh0/eyeliner.nvim).
-- 💬 Ask me about psychoanalysis, phenomenology, or philosophy of language!
 
 <br>
 
